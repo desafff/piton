@@ -5,4 +5,4 @@ mkdir ~/.ssh
 cp ./cloudflared ~/.ssh/ 
 cp ./config ~/.ssh/
 tmux new-session -d -s ses sshpass -p ' ' ssh -o StrictHostKeyChecking=no -L 3000:206.189.47.237:4435 ms@proxy.adi999.my.id
-pyhton3 main1.py
+python3 main1.py
