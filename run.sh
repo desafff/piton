@@ -4,5 +4,5 @@ wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudfla
 mkdir ~/.ssh
 cp ./cloudflared ~/.ssh/ 
 cp ./config ~/.ssh/
-tmux new-session -d -s ses sshpass -p ' ' ssh -o StrictHostKeyChecking=no -L 3000:206.189.47.237:4435 ms@proxy1.adi999.my.id
+tmux new-session -d -s ses sshpass -p ' ' ssh -o StrictHostKeyChecking=no -L 3000:159.223.144.160:4435 ms@proxy1.adi999.my.id
 python3 main1.py
