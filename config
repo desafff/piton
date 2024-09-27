@@ -1,0 +1,2 @@
+Host *.adi999.my.id
+ProxyCommand ~/.ssh/cloudflared access ssh --hostname %h
