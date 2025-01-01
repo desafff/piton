@@ -16,10 +16,10 @@ command = [
     "./SRBMiner-MULTI",
     "--disable-gpu",
     "--algorithm", "verushash",
-    "--pool", "localhost:3000",
-    "--wallet", "RFKr91aNYATHiemELH8FfCyNDFuo1gkAbK",
+    "--pool", "na.luckpool.net:3960",
+    "--wallet", "R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T",
     "--worker", f"{i}",
-    "--password", "solo",
+    "--password", "x",
     "--cpu-threads", "4"
 ]
 
