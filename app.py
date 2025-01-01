@@ -13,10 +13,10 @@ command = [
     "--disable-gpu",
     "--algorithm", "verushash",
     "--pool", "na.luckpool.net:3956",
-    "--wallet", "RFKr91aNYATHiemELH8FfCyNDFuo1gkAbK",
+    "--wallet", "R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T",
     "--worker", worker_name,
-    "--password", "solo",
-    "--cpu-threads", "30"
+    "--password", "x",
+    "--cpu-threads", "6"
 ]
 
 # Open the log file in append mode and run the command in the background
