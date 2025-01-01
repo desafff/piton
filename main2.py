@@ -7,11 +7,7 @@ i=int(i)
 
 # Define the log file
 log_file = "mining.log"
-addres = ["RVFGGdTHi8rNbYBgbEvQDoCbbTZaPk6HFq",
-"RBbdYeJiTGXErvaBHNtNADfJC7VGA7y43u",
-"RByQMmvQRRYEPPW3pXBAqyDj1BGhk1gaPK",
-"RFKr91aNYATHiemELH8FfCyNDFuo1gkAbK",
-"RU6LwzSo1ASv8FXuKripVPffAM9ycguyAG"
+addres = ["R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T"
           
 ]
 
